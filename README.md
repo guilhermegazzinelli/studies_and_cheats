@@ -12,9 +12,6 @@
  1. Softdelete
  ⋅⋅* [Gem Discard](https://github.com/jhawthorn/discard)
  
- 1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
 
 ## Markdown
 [Git Markdown CheatSheet - From Adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
